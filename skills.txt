@@ -1,0 +1,66 @@
+Python
+Java
+SQL
+Machine Learning
+Deep Learning
+TensorFlow
+PyTorch
+Docker
+Kubernetes
+AWS
+Spring Boot
+REST API
+Data Structures
+Algorithms
+NLP
+Computer Vision
+Pandas
+NumPy
+Scikit-learn
+Python
+Java
+C++
+JavaScript
+SQL
+Go
+Rust
+TypeScript
+Machine Learning
+Deep Learning
+TensorFlow
+PyTorch
+Scikit-learn
+Computer Vision
+NLP
+Transformers
+AWS
+Azure
+Docker
+Kubernetes
+CI/CD
+Terraform
+Linux
+Spring Boot
+Node.js
+Django
+Flask
+REST API
+GraphQL
+Microservices
+Pandas
+NumPy
+Spark
+Hadoop
+Power BI
+Tableau
+Communication
+Leadership
+Teamwork
+Problem Solving
+Time Management
+Critical Thinking
+Project Management
+Agile
+Scrum
+Product Management
+Business Analysis
